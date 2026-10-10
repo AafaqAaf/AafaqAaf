@@ -31,7 +31,7 @@ Building practical software solutions using Java, Python and AI.
 ### Connect
 
 - GitHub: [@AafaqAaf](https://github.com/AafaqAaf)
-- LinkedIn: (https://www.linkedin.com/in/mohammed-aafaq-/?isSelfProfile=true)
+- LinkedIn: [AafaqLinkedin]( https://www.linkedin.com/in/mohammed-aafaq-/?isSelfProfile=true)
 
 ---
 
