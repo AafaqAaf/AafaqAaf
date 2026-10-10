@@ -1,16 +1,38 @@
-## Hi there 👋
+![Animated profile hero](./assets/hero.svg?v=1)
 
-<!--
-**AafaqAaf/AafaqAaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### Software Developer · AI/ML Engineer · Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building practical software solutions using Java, Python and AI.
+
+📍 Tumkur, Karnataka, India
+
+</div>
+
+---
+
+![About me](./assets/about-life.svg?v=1)
+
+![Technology stack](./assets/stack.svg?v=1)
+
+## Featured projects
+
+| Project | What it does | Repository |
+|---|---|---|
+| Fake News Detection | NLP-based news classification using TF-IDF and machine learning. | [View project](https://github.com/AafaqAaf/Fake-news-detection-using-NLP) |
+| CylinderSense | AI-powered LPG demand forecasting and allocation concept. | [Explore my repositories](https://github.com/AafaqAaf?tab=repositories) |
+| Hntr | AI-powered browser extension concept for semantic job matching. | [Explore my repositories](https://github.com/AafaqAaf?tab=repositories) |
+
+![Developer dashboard](./assets/id-dashboard.svg?v=1)
+
+![Connect with me](./assets/connect.svg?v=1)
+
+### Connect
+
+- GitHub: [@AafaqAaf](https://github.com/AafaqAaf)
+- LinkedIn: Add your exact profile URL here.
+
+---
+
+<sub>Designed with a dark navy, electric-blue and crimson visual theme. Project descriptions and links should be updated as each project is published.</sub>
