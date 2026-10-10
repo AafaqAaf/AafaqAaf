@@ -6,7 +6,7 @@
 
 Building practical software solutions using Java, Python and AI.
 
-📍 Tumkur, Karnataka, India
+📍 Bengaluru, Karnataka, India
 
 </div>
 
@@ -31,6 +31,7 @@ Building practical software solutions using Java, Python and AI.
 ### Connect
 
 - GitHub: [@AafaqAaf](https://github.com/AafaqAaf)
+- Leetcode : [AafaqAaf](https://leetcode.com/u/6Q4GynQHXq/)
 - LinkedIn: [AafaqLinkedin]( https://www.linkedin.com/in/mohammed-aafaq-/?isSelfProfile=true)
 
 ---
